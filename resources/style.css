@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+h1 {
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.download {
+  color: aqua;
+  font-size: 16px;
+  text-align: center;
+
+}
+
+.camp {
+  color: aqua;
+  font-size: 22px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+footer {
+  color: gray;
+  text-align: right;
+}
